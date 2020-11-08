@@ -1,2 +1,0 @@
--r ../src/requirements_full.txt
-pytest==6.1.2
